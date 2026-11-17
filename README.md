@@ -27,10 +27,13 @@ script.js     Navegación, contadores y año dinámico
 
 Abre `index.html` en el navegador o usa un servidor estático (`npx serve .`).
 
+---
+
 ## Autor
 
 **Ariel Geovanny Andino Chinchilla** — Desarrollador Full Stack
 
 - GitHub: [@andino1234](https://github.com/andino1234)
+- Repositorio: [github.com/andino1234/matamorogroup](https://github.com/andino1234/matamorogroup)
 
 Proyecto diseñado y desarrollado por Ariel Geovanny Andino Chinchilla para Insight LATAM. Se publica con fines de portafolio; las credenciales, datos de clientes y archivos de usuarios se excluyeron del repositorio.
